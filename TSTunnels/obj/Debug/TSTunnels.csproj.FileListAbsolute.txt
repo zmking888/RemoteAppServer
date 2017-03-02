@@ -1,0 +1,16 @@
+E:\迅雷下载\source code\source-archive\tstunnels\trunk\TSTunnels\TSTunnels\bin\Debug\TSTunnels.dll
+E:\迅雷下载\source code\source-archive\tstunnels\trunk\TSTunnels\TSTunnels\bin\Debug\TSTunnels.pdb
+E:\迅雷下载\source code\source-archive\tstunnels\trunk\TSTunnels\TSTunnels\bin\Debug\ExportDllAttribute.dll
+E:\迅雷下载\source code\source-archive\tstunnels\trunk\TSTunnels\TSTunnels\obj\Debug\TSTunnels.dll
+E:\迅雷下载\source code\source-archive\tstunnels\trunk\TSTunnels\TSTunnels\obj\Debug\TSTunnels.pdb
+E:\迅雷下载\source code\source-archive\tstunnels\trunk\TSTunnels\TSTunnels\obj\Debug\TSTunnels.csprojResolveAssemblyReference.cache
+C:\Users\lichaor\Desktop\RemoteApp\TSTunnels\bin\Debug\TSTunnels.dll
+C:\Users\lichaor\Desktop\RemoteApp\TSTunnels\bin\Debug\TSTunnels.pdb
+C:\Users\lichaor\Desktop\RemoteApp\TSTunnels\obj\Debug\TSTunnels.csprojResolveAssemblyReference.cache
+C:\Users\lichaor\Desktop\RemoteApp\TSTunnels\obj\Debug\TSTunnels.dll
+C:\Users\lichaor\Desktop\RemoteApp\TSTunnels\obj\Debug\TSTunnels.pdb
+C:\Users\Administrator\Desktop\RemoteApp-Server\TSTunnels\bin\Debug\TSTunnels.dll
+C:\Users\Administrator\Desktop\RemoteApp-Server\TSTunnels\bin\Debug\TSTunnels.pdb
+C:\Users\Administrator\Desktop\RemoteApp-Server\TSTunnels\obj\Debug\TSTunnels.dll
+C:\Users\Administrator\Desktop\RemoteApp-Server\TSTunnels\obj\Debug\TSTunnels.pdb
+C:\Users\Administrator\Desktop\RemoteApp-Server\TSTunnels\obj\Debug\TSTunnels.csprojResolveAssemblyReference.cache

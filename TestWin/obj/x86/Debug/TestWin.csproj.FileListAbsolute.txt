@@ -1,0 +1,17 @@
+C:\Users\lichaor\Desktop\RemoteApp\TestWin\bin\Debug\TestWin.exe
+C:\Users\lichaor\Desktop\RemoteApp\TestWin\bin\Debug\TestWin.pdb
+C:\Users\lichaor\Desktop\RemoteApp\TestWin\obj\x86\Debug\TestWin.Form1.resources
+C:\Users\lichaor\Desktop\RemoteApp\TestWin\obj\x86\Debug\TestWin.Properties.Resources.resources
+C:\Users\lichaor\Desktop\RemoteApp\TestWin\obj\x86\Debug\TestWin.csproj.GenerateResource.Cache
+C:\Users\lichaor\Desktop\RemoteApp\TestWin\obj\x86\Debug\TestWin.exe
+C:\Users\lichaor\Desktop\RemoteApp\TestWin\obj\x86\Debug\TestWin.pdb
+C:\Users\lichaor\Desktop\RemoteApp\TestWin\obj\x86\Debug\TestWin.Form2.resources
+C:\Users\Administrator\Desktop\RemoteApp-Server\TestWin\bin\Debug\TestWin.exe
+C:\Users\Administrator\Desktop\RemoteApp-Server\TestWin\bin\Debug\TestWin.pdb
+C:\Users\Administrator\Desktop\RemoteApp-Server\TestWin\obj\x86\Debug\TestWin.Form1.resources
+C:\Users\Administrator\Desktop\RemoteApp-Server\TestWin\obj\x86\Debug\TestWin.Form2.resources
+C:\Users\Administrator\Desktop\RemoteApp-Server\TestWin\obj\x86\Debug\TestWin.Properties.Resources.resources
+C:\Users\Administrator\Desktop\RemoteApp-Server\TestWin\obj\x86\Debug\TestWin.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\RemoteApp-Server\TestWin\obj\x86\Debug\TestWin.exe
+C:\Users\Administrator\Desktop\RemoteApp-Server\TestWin\obj\x86\Debug\TestWin.pdb
+C:\Users\Administrator\Desktop\RemoteApp-Server\TestWin\obj\x86\Debug\TestWin.csprojResolveAssemblyReference.cache

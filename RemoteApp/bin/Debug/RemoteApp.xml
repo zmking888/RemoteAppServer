@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Datas>
+  <Config>
+   <RemoteProgramePath>C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\devenv.exe</RemoteProgramePath>
+   <Server>10.10.12.237</Server>
+   <Domain></Domain>
+   <UserName>administrator</UserName>
+   <Password>ufsoft*123</Password>
+   <AutoConnect>true</AutoConnect>
+  </Config>
+ </Datas>
+</Configs>

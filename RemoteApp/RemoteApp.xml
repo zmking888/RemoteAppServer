@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RDP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <RemoteProgramePath>C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\devenv.exe</RemoteProgramePath>
+ <Server>10.1.248.234</Server>
+ <Domain>pdomain</Domain>
+ <UserName>lichaor</UserName>
+ <Password>ljs19881123</Password>
+</RDP>
